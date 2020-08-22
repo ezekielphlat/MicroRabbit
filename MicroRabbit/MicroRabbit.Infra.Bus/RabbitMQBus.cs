@@ -101,7 +101,7 @@ namespace MicroRabbit.Infra.Bus
             }
             catch(Exception ex)
             {
-
+                Console.WriteLine(ex);
             }
         }
 
